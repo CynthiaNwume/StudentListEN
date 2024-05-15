@@ -20,7 +20,7 @@ public class StudentList1 {
         students[1] = new Student("Tobi Abiade");
         students[2] = new Student("Joseph Whensu");
         students[3] = new Student("Emeka Mbachu");
-        students[4] = new Student("Evans Samuel");
+        students[4] = new Student("Cynthia Daniels");
 
         for (Student student : students) {
             System.out.println(student.getName());
